@@ -1,4 +1,4 @@
-Using GANs we will create T2-weighted images from T1-weighted MRI images and vice-versa.
+The objective of the project is to create T2-weighted images from T1-weighted MRI images and vice-versa.
 
 One of the complicated tasks in medical imaging is to diagnose MRI(Magnetic Resonance Imaging). Sometimes to interpret the scan, the radiologist needs different variations of the imaging which can drastically enhance the accuracy of diagnosis by providing practitioners with a more comprehensive understanding. However, to have access to different imaging is difficult and expensive.
 
